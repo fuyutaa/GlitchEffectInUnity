@@ -119,6 +119,7 @@ namespace Cam.Effects
             lastFoV = nextFoV = 0f;
         }
 
+        /*
         void Update()
         {
             if (Input.GetKeyDown(KeyCode.H))
@@ -126,7 +127,7 @@ namespace Cam.Effects
                 Debug.Log("H key was pressed");
                 ShakeOnce();
             }
-        }
+        }*/
     }
 
 
